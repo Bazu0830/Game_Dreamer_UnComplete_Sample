@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05ac7ea941406cf4ba06ed6fc0a20109, type: 3}
+  m_Name: StudentB
+  m_EditorClassIdentifier: 
+  characterName: "\u30DF\u30FC\u30CA"
+  gameObject: {fileID: 0}
+  isPoisonState: 0
+  isNumbnessState: 0
+  level: 1
+  maxHp: 100
+  hp: 100
+  maxMp: 50
+  mp: 50
+  STR: 5
+  VIT: 10
+  INT: 10
+  AGI: 10
+  DEX: 10
+  earnedExperience: 0
+  equipWeapon: {fileID: 11400000, guid: 9ed40326d81fc8a42962bcda8607b46e, type: 2}
+  equipArmor: {fileID: 11400000, guid: 7c0929078e82bfd4cbb1deabcf69c447, type: 2}
+  itemDictionary:
+    m_keys: []
+    m_values: 
+  levelUpData: {fileID: 11400000, guid: 84ec9d12830d6ae40a1b30a67762e5c1, type: 2}
+  money: 0
+  statuspoint: 0
+  skillList: []

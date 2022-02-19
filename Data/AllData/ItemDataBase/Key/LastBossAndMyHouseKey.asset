@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fdc3bcd403ef41408f5e2b755f75ff9, type: 3}
+  m_Name: LastBossAndMyHouseKey
+  m_EditorClassIdentifier: 
+  itemType: 10
+  kanjiName: "\u535A\u58EB\u306E\u624B\u8A18"
+  hiraganaName: "\u306F\u304B\u305B\u306E\u3057\u3085\u304D"
+  information: "\u6700\u8FD1\u5F1F\u5B50\u306E\u69D8\u5B50\u304C\u304A\u304B\u3057\u3044\u3002\n\u3042\u306E\u5B50\u3089\u306F\u4F55\u304B\u5102\u306B\u96A0\u3057\u3054\u3068\u3092\u3057\u3066\u3044\u308B\u3088\u3046\u3060\u3002\n\u3042\u307E\u308A\u8A6E\u7D22\u306F\u305B\u3093\u304C\u3001\n\u3082\u3057\u3082\u306E\u4E8B\u304C\u3042\u308C\u3070\u3042\u306E\u5B50\u3089\u306E\u5BB6\u306E\u4ED5\u639B\u3051\u3092\u8ABF\u3079\u3066\u307F\u308B\u304B\u306E\u3002\n\u666E\u901A\u306E\u5BB6\u306B\u3057\u3066\u306F\u5999\u306B\u529B\u306E\u5165\u3063\u305F\u9B54\u529B\u3092\n\u672C\u68DA\u304B\u3089\u611F\u3058\u305F\u304B\u3089\u306E\u3002"
+  amount: 1
+  icon: {fileID: 21300000, guid: 822a89e9f66c4c845802d3ec400be2fc, type: 3}
+  LeftObject: {fileID: 0}
+  RightObject: {fileID: 0}

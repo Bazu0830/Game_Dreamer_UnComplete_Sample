@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05ac7ea941406cf4ba06ed6fc0a20109, type: 3}
+  m_Name: "\u57F7\u4E8B"
+  m_EditorClassIdentifier: 
+  characterName: "\u57F7\u4E8B"
+  gameObject: {fileID: 7791722197158989199, guid: 4b5bb332a7ad0944fade0a4ec4c9c4e3,
+    type: 3}
+  ObjectName: "\u7B2C\u4E00\u7AE0\u4E3B\u4EBA\u516C"
+  Information: "\u57F7\u4E8B\n\n\u30A2\u30CA\u30A4\u30EC\u30FC\u30B7\u30E7\u30F3\u5BB6\u306E\u57F7\u4E8B"
+  Sprite: {fileID: 21300000, guid: af98cbff5f8b60145a9012fadff79e9c, type: 3}
+  star: 0
+  isPoisonState: 0
+  isNumbnessState: 0
+  isSlepe: 0
+  isbirned: 0
+  iswatered: 0
+  maxHp: 100
+  hp: 100
+  maxMp: 100
+  mp: 100
+  maxSt: 100
+  st: 100
+  PA: 30
+  MA: 30
+  PD: 30
+  MD: 30
+  itemDictionary:
+    m_keys:
+    - {fileID: 11400000, guid: 9ed40326d81fc8a42962bcda8607b46e, type: 2}
+    m_values: 01000000
+  money: 500
+  element: 2

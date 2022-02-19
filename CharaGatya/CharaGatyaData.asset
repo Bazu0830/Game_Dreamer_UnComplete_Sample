@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 970c72ee9a5c2ca41bbd6ac33cbd0b0b, type: 3}
+  m_Name: CharaGatyaData
+  m_EditorClassIdentifier: 
+  gold:
+    m_keys:
+    - {fileID: 11400000, guid: 377bc49adb0ca4948a6739972d8f2836, type: 2}
+    - {fileID: 11400000, guid: 2d9ba7447fd63654b91ae7392f3bb32f, type: 2}
+    m_values: 0000000001000000
+  silver:
+    m_keys:
+    - {fileID: 11400000, guid: eb5148f4e9f4cf640a7e87d112d2e58e, type: 2}
+    - {fileID: 11400000, guid: a99f3c84ae4223f438dd1621a47b3a01, type: 2}
+    m_values: 0000000001000000
+  bronze:
+    m_keys:
+    - {fileID: 11400000, guid: f4a02445e8a3467449ba9b6ec0958fd6, type: 2}
+    - {fileID: 11400000, guid: 013aaa1b1e1f9ec49983e6c52237284f, type: 2}
+    m_values: 0000000001000000

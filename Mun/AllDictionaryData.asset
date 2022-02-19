@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6648192e20fa3874095f4aaebcaf0894, type: 3}
+  m_Name: AllDictionaryData
+  m_EditorClassIdentifier: 
+  allydictionary:
+    m_keys:
+    - {fileID: 11400000, guid: 76098b28b50d1514e8f1c66f400f9caa, type: 2}
+    - {fileID: 11400000, guid: 013aaa1b1e1f9ec49983e6c52237284f, type: 2}
+    - {fileID: 11400000, guid: f4a02445e8a3467449ba9b6ec0958fd6, type: 2}
+    - {fileID: 11400000, guid: 377bc49adb0ca4948a6739972d8f2836, type: 2}
+    - {fileID: 11400000, guid: 2d9ba7447fd63654b91ae7392f3bb32f, type: 2}
+    - {fileID: 11400000, guid: a99f3c84ae4223f438dd1621a47b3a01, type: 2}
+    - {fileID: 11400000, guid: eb5148f4e9f4cf640a7e87d112d2e58e, type: 2}
+    m_values: 00000000010000000200000003000000040000000500000006000000
+  itemdictionary:
+    m_keys:
+    - {fileID: 11400000, guid: c1665216d4f8cc944b9c6cf71b6bee08, type: 2}
+    - {fileID: 11400000, guid: 4ed44a044f585974d82eca1748de0b00, type: 2}
+    - {fileID: 11400000, guid: 1d4195c217d0df848832610c5a4086fd, type: 2}
+    - {fileID: 11400000, guid: cb1f4b5b983d4074ba5efe1530019fc5, type: 2}
+    - {fileID: 11400000, guid: 9ed40326d81fc8a42962bcda8607b46e, type: 2}
+    m_values: 0000000001000000020000000300000004000000
+  questdictionary:
+    m_keys:
+    - {fileID: 11400000, guid: 100318d7fa62429409393dabd224240f, type: 2}
+    - {fileID: 11400000, guid: 6121351012e2c9b41bc554e14a20f035, type: 2}
+    - {fileID: 11400000, guid: 1703b175d27df974da10445fc0b55b96, type: 2}
+    - {fileID: 11400000, guid: 34307c0d867d7b84698f1135e55a33d4, type: 2}
+    - {fileID: 11400000, guid: 8486d3c2c24414c47a1ac2bc3629f1fe, type: 2}
+    - {fileID: 11400000, guid: 79514c596761c95469d8daf840f0f179, type: 2}
+    - {fileID: 11400000, guid: 4600276311048b7419180354af94a36e, type: 2}
+    - {fileID: 11400000, guid: a23a32bde8faf4642af906c6ffcde45c, type: 2}
+    - {fileID: 11400000, guid: 11ff5b34c569f0a43988ca50c269c588, type: 2}
+    - {fileID: 11400000, guid: f18ae6f6c66332b42b16b6f2c1f694f3, type: 2}
+    - {fileID: 11400000, guid: 7c06bc33450218246bea3889594c7695, type: 2}
+    - {fileID: 11400000, guid: 0f4827cc5e70af44a8ce6c45c0aa9f55, type: 2}
+    - {fileID: 11400000, guid: 2898b8b10488b4444ab1c2ac9e73a7e1, type: 2}
+    - {fileID: 11400000, guid: 74aad3cdecc283542a424f869be151ab, type: 2}
+    - {fileID: 11400000, guid: 8f9e395d8b0f1664db498dc1e63152d2, type: 2}
+    - {fileID: 11400000, guid: 4aa27110f318c9649a1b012c9cc60bfb, type: 2}
+    - {fileID: 11400000, guid: e6402bc1cbabb494693d2d49a345d94e, type: 2}
+    - {fileID: 11400000, guid: c5ae194ed3b158848a11d99b890b48ef, type: 2}
+    - {fileID: 11400000, guid: 1e7ff3dd4794e6747846cbd7bdc52e7f, type: 2}
+    - {fileID: 11400000, guid: dca89e7f2c7d3e542b6371240ad15b6a, type: 2}
+    - {fileID: 11400000, guid: 378145f8ef15ee045a6bc134d8148ce4, type: 2}
+    - {fileID: 11400000, guid: 80d8cba453dd93844b4edadacb420285, type: 2}
+    - {fileID: 11400000, guid: d5b9d64fb2a578543aa664fb7f30ddd7, type: 2}
+    - {fileID: 11400000, guid: fe1958b747ccf2048a1cbf2d50189e8f, type: 2}
+    - {fileID: 11400000, guid: 9a3699c8cf0325049ae00714008784f9, type: 2}
+    - {fileID: 11400000, guid: 9a8bd05d25795b34a9d53124f2df13c9, type: 2}
+    - {fileID: 11400000, guid: eb6b1547e8bd3474186545d4db62ab16, type: 2}
+    - {fileID: 11400000, guid: c112c4c536818d14785523653a561c07, type: 2}
+    - {fileID: 11400000, guid: d11b28f1bbe060c4fa42e485be4e2f7f, type: 2}
+    - {fileID: 11400000, guid: 6a9963b25813053448c8ec46e79c6bc8, type: 2}
+    - {fileID: 11400000, guid: 287e02179a33a7d49b3ed41d6bfa1118, type: 2}
+    - {fileID: 11400000, guid: 60b2686ccf10a3848bfed919ae929e62, type: 2}
+    m_values: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000

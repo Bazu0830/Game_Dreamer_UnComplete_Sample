@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1486eb16b9edfea46b886b1439ef5120, type: 3}
+  m_Name: Quest 2
+  m_EditorClassIdentifier: 
+  ReleaseNum: 20210612
+  StoryNum: 3
+  QuestName: "\u59EB\u69D8\u304B\u3089\u306E\u624B\u7D19\uFF13\u8A71"
+  information: "\u30BB\u30CA\u3068\u5B9A\u671F\u7684\u306B\u8D08\u308A\u5408\u3063\u3066\u304D\u305F\u624B\u7D19\u3002"
+  difficultylevel: 21
+  icon: {fileID: 21300000, guid: c3b3708e1f90186439634828155b566e, type: 3}
+  isStory: 0
+  StageName: Forest (1)
+  EasyScore: 0
+  NormalScore: 0
+  HardScore: 0
+  ExpertScore: 0
+  MasterScore: 0
+  IconURL: 
+  StartStoryURL: 
+  EndStoryURL: 

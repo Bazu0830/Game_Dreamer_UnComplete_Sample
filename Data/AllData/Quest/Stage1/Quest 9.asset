@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1486eb16b9edfea46b886b1439ef5120, type: 3}
+  m_Name: Quest 9
+  m_EditorClassIdentifier: 
+  ReleaseNum: 1
+  StoryNum: 9
+  QuestName: "\u6728\u751F\u3044\u8302\u308B\u84BC\u304D\u9F8D"
+  information: "\u68EE\u306E\u6226\u58EB\u306B\u6848\u5185\u3055\u308C\u305F\u4E3B\u4EBA\u516C\u306F\u305D\u3053\u3067\u4ECA\u307E\u3055\u306B\n\u6226\u3063\u3066\u3044\u308B\u6700\u4E2D\u3067\u3042\u308B\u30A8\u30EB\u30D5\u3068\u51FA\u4F1A\u3046\u3002"
+  difficultylevel: 21
+  icon: {fileID: 21300000, guid: d5c97237cab124f43a5e34827b4fb408, type: 3}
+  isStory: 1
+  StageName: Forest (1)
+  EasyScore: 316136
+  NormalScore: 0
+  HardScore: 0
+  ExpertScore: 0
+  MasterScore: 0
+  IconURL: 
+  StartStoryURL: 
+  EndStoryURL: 

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1486eb16b9edfea46b886b1439ef5120, type: 3}
+  m_Name: Quest 5
+  m_EditorClassIdentifier: 
+  ReleaseNum: 1
+  StoryNum: 5
+  QuestName: "\u5C11\u5973\u306E\u983C\u307F"
+  information: "\u3053\u306E\u56FD\u306F\u6226\u4E89\u72B6\u614B\u306B\u3042\u308A\u3001\u307E\u305F\u7A81\u5982\u3068\u3057\u3066\u73FE\u308C\u305F\n\uFF14\u4F53\u306E\u602A\u7269\u306B\u3088\u3063\u3066\u8E42\u8E99\u3055\u308C\u3066\u3044\u308B\u3053\u3068\u304C\u5224\u660E\u3059\u308B\u3002\n\u4E3B\u4EBA\u516C\u306F\u3053\u306E\u72B6\u6CC1\u3092\u6253\u7834\u3059\u308B\u305F\u3081\u306B\u9032\u307F\u59CB\u3081\u308B\u3002"
+  difficultylevel: 5
+  icon: {fileID: 21300000, guid: d5c97237cab124f43a5e34827b4fb408, type: 3}
+  isStory: 1
+  StageName: Forest (1)
+  EasyScore: 51635
+  NormalScore: 0
+  HardScore: 0
+  ExpertScore: 0
+  MasterScore: 0
+  IconURL: 
+  StartStoryURL: 
+  EndStoryURL: 

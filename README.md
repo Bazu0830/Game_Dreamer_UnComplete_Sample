@@ -34,6 +34,7 @@ https://user-images.githubusercontent.com/53178307/154847778-bfeee3a4-f9df-47f1-
 https://github.com/Bazu0830/Game_Dreamer_UnComplete_Sample/blob/master/Mun/PlayerButtonController.cs
 
 では複数の指で同時に入力されることを想定し、押される指に番号をつける方法を取り入れた。
+また、ボタンの数を最小限にすることで手軽さを増やした。
 
 https://github.com/Bazu0830/Game_Dreamer_UnComplete_Sample/blob/master/Movemant/Enemy/Jump.cs
 

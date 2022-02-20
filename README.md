@@ -6,7 +6,9 @@
 
 使用言語 C#
 
-使用OS   Windows
+使用OS   Windows11
+
+開発環境　VisualStudio2019
 
 unity製
 

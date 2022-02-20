@@ -16,11 +16,11 @@ unity製
 
 https://user-images.githubusercontent.com/53178307/154847770-ea55d0f0-0622-478e-9b11-241b4c8e04c2.mp4
 
-メインメニュー画面の映像
+キャラ変更の映像
 
 https://user-images.githubusercontent.com/53178307/154847771-1fc705aa-d316-4548-acc4-9f73857a69bf.mp4
 
-キャラ変更の映像
+クエスト選択画面の映像
 
 https://user-images.githubusercontent.com/53178307/154847774-66c99eb1-90f5-452b-9674-c96bc7323e8c.mp4
 
